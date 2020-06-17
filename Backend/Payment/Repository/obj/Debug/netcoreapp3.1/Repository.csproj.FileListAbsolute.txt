@@ -1,0 +1,12 @@
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\Projetos\RabbitMQ_Study\Backend\Payment\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
